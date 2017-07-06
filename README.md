@@ -9,6 +9,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/
 ## My Settings
 
 [Diamond JKLI to Arrow](karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fgithub.com%2Fnekova%2FKE-complex_modifications%2Ftree%2Fmaster%2Fdocs%2Fjson%2Fdiamond_arrow.json)
+- karabiner://karabiner/assets/complex_modifications/import?url=https%3A%2F%2Fgithub.com%2Fnekova%2FKE-complex_modifications%2Ftree%2Fmaster%2Fdocs%2Fjson%2Fdiamond_arrow.json
 
 ## Update docs
 
